@@ -1,0 +1,29 @@
+students:
+ - 
+  id: 1
+  name: "Aarti Rathi"
+  age: 20
+  address: "Pune"
+  gender: "F"
+ -
+  id: 2
+  name: "Aditya"
+  age: 23
+  address: "Banglore"
+  gender: "M"
+
+ -
+  id: 0
+  name: Anushka
+  age: 20
+  address: Bhopal
+  gender: M
+
+
+
+debug: 'true'
+spring:
+  application:
+    name: yamlProject
+server:
+  port: '6098'
